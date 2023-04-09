@@ -4,9 +4,9 @@ Dinámica y control de robots | Función para determinar la matriz de Denavit-Ha
 ## **ÍNDICE**
 
 * [1. Intro](#)
-)
+
 * [2. Qúe construí](#)
-)
+
 * [3. Objetivo del Proyecto](#)
 
 
