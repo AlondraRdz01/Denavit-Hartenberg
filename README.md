@@ -3,7 +3,8 @@ Dinámica y control de robots | Función para determinar la matriz de Denavit-Ha
 
 ## **ÍNDICE**
 
-* [1. Intro](#)
+* [1. Intro](![image](https://user-images.githubusercontent.com/128761626/230799669-231b79cf-0d50-45b3-8776-b224a8ff6ed6.png)
+)
 * [2. Qúe construí](#)
 * [3. Objetivo del Proyecto](#)
 
